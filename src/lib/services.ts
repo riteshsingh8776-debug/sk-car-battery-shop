@@ -1,0 +1,17 @@
+export const SERVICE_OPTIONS = [
+  'Car Battery Replacement at Doorstep',
+  'Inverter Battery Installation & Setup',
+  'Emergency Jump-Start Service',
+  'Old Battery Scrap Buyback & Exchange',
+  'Amaron Car Batteries (Hi-Life Pro / Go)',
+  'Exide Car & SUV Batteries (Mileage Series)',
+  'Start-Stop EFB Batteries',
+  'Heavy Duty Commercial Vehicle Batteries',
+  'Tall Tubular Inverter Batteries (Luminous & Amaron)',
+  'UPS & Power Backup Solutions',
+  'Free Battery Health Checkup',
+  'Commercial & Fleet Battery Maintenance',
+  '24/7 Emergency Roadside Assistance',
+  'Inverter & Battery Repair Troubleshooting',
+  'Genuine Warranty & Digital Invoicing',
+];
